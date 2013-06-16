@@ -2,6 +2,8 @@
   :description "FIXME: write description"
   :url "http://example.com/FIXME"
   :dependencies [[org.clojure/clojure "1.5.1"]
+;                 Uncomment the line below to break the build
+;                 [clj-pusher "0.3.1"]
                  [http-kit "2.1.3"]
                  [org.clojure/tools.logging "0.2.6"]
                  [hiccup "1.0.3"]
